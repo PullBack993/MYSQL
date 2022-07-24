@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/0.Create Database.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/1.Create Tables.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/10.Set Unique Field.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/11.Movies Database.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/12.Car Rental Database.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/13.Basic Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/14.Basic Select All Fields.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/15.Basic Select All Fields and Order Them.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/16.Basic Select Some Fields.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/17.Increase Employees Salary.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/18.Delete All Records.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2.Alter Minions Table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/3.Insert Records in Both Tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/4.&#9;Truncate Table Minions.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/5.&#9;Drop All Tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/6.&#9;Create Table People.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/7.&#9;Create Table Users.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/8.Change Primary Key.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/9.Set Default Value of a Field.sql" dialect="MySQL" />
+  </component>
+</project>
